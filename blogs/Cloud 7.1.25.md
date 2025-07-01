@@ -2,7 +2,7 @@
 
 I was not able to make a post yesterday as I was called out to one of our remote sites to replace an Cisco Access Point, and it ended up being a much bigger ordeal than a simple plug and play. The whole siwtch needed replacing as some of the ports were just fried, so had to deal with that.
 
-I am however back today and wanted to write about something I am learning about in one of my college courses, and that would be Cloud, and cloud security, and how to find the pros and cons of the cloud. This blog post will be a mix of technical brwakdow of what each cloud type is but also how to find the best fit for your company. I had been thinking of this as well, trying to understand what mixture the company I work for uses, and why we use those things.
+I am however back today and wanted to write about something I am learning about in one of my college courses, and that would be Cloud, and cloud security, and how to find the pros and cons of the cloud. This blog post will be a mix of technical breakdown of what each cloud type is but also how to find the best fit for your company. I had been thinking of this as well, trying to understand what mixture the company I work for uses, and why we use those things.
 
 # Public vs. Private vs. Hybrid Cloud: Which Is Right for Your Business?
 
