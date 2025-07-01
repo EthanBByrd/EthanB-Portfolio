@@ -98,7 +98,7 @@ Requires strong IT governance
 - **Private Cloud**: Dedicated and secure, but resource-heavy.
 - **Hybrid Cloud**: Best of both, but complex to manage.
 
-> The right cloud model depends on **your goals, resources, and risk tolerance**. There's no one-size-fits-all—just the right fit for your organization.
+ The right cloud model depends on **your goals, resources, and risk tolerance**. There's no one-size-fits-all—just the right fit for your organization.
 
 ---
 
