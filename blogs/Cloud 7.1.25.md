@@ -12,7 +12,7 @@ Cloud computing is essential to modern IT strategy—but not all cloud environme
 
 ### Public Cloud
 
-A **public cloud** is owned and operated by a third-party provider (e.g., Microsoft Azure, AWS, Google Cloud). Resources like storage, compute, and applications are delivered over the internet and **shared across multiple organizations (multi-tenant).**
+A **public cloud** is owned and operated by a third-party provider (e.g., Microsoft Azure, AWS, Google Cloud). Resources like storage, compute, and applications are delivered over the internet and **shared across multiple organizations (multi tenant).**
 
 **Examples:**  
 - Microsoft 365 (Teams, Outlook, SharePoint)  
@@ -87,7 +87,7 @@ Requires strong IT governance
 1. **What are our security and compliance needs?**
 2. **How much control do we need over our infrastructure?**
 3. **Do we have the in-house skills to manage private cloud?**
-4. **Are we ready to scale quickly—or do we prioritize stability?**
+4. **Are we ready to scale quickly or do we prioritize stability?**
 5. **Are we migrating from legacy systems?**
 
 ---
@@ -95,7 +95,7 @@ Requires strong IT governance
 ##  TL;DR
 
 - **Public Cloud**: Cost-effective, scalable, but shared.
-- **Private Cloud**: Dedicated and secure, but resource-heavy.
+- **Private Cloud**: Dedicated and secure, but resource heavy.
 - **Hybrid Cloud**: Best of both, but complex to manage.
 
  The right cloud model depends on **your goals, resources, and risk tolerance**. There's no one-size-fits-all—just the right fit for your organization.
