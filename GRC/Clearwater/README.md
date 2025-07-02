@@ -1,5 +1,15 @@
 # Clearwater Risk Management Project
 
+## Key files:
+- [List of company Assets and Inventory](Assest_Inventory.pdf)
+- [Business/Company Overview](BrightingtonAcademy2025.pdf)
+- [Policy Statements and Acceptable Use](PolicyStatementsEthanByrd.pdf)
+- [Risk Rating Overview](Risk_Rating.pdf)
+- [Risk Response Document](Risk_Response.pdf)
+
+Project:
+- [Walkthrough](Walkthrough.md)
+
 ## Overview
 
 This project simulates a complete enterprise-level **Governance, Risk, and Compliance (GRC)** workflow using Clearwater’s CC|IRM (Cybersecurity Compliance | Information Risk Management) platform. It was developed to mirror the real-world tasks a cybersecurity risk analyst or GRC professional would perform when managing organizational information security risks.
@@ -82,13 +92,5 @@ Ethan Byrd
 - Contact: coachbyrdow@gmail.com
 
 
-Key files:
-- [List of company Assets and Inventory](Assest_Inventory.pdf)
-- [Business/Company Overview](BrightingtonAcademy2025.pdf)
-- [Policy Statements and Acceptable Use](PolicyStatementsEthanByrd.pdf)
-- [Risk Rating Overview](Risk_Rating.pdf)
-- [Risk Response Document](Risk_Response.pdf)
 
-Project:
-- [Walkthrough](Walkthrough.md)
 
