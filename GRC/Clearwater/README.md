@@ -10,7 +10,7 @@ The project includes identifying sensitive information assets, importing asset d
 
 ## Objective
 
-To perform a risk assessment and response plan for a simulated organization, applying risk management principles and practices aligned with NIST and industry standards. The end goal is to reduce risks to an acceptable level based on a defined risk threshold and document the findings in a professional format.
+To perform a risk assessment and response plan for a simulated organization as Brightington Academy, applying risk management principles and practices aligned with NIST and industry standards. The end goal is to reduce risks to an acceptable level based on a defined risk threshold and document the findings in a professional format.
 
 ---
 
