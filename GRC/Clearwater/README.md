@@ -8,5 +8,5 @@ Key files:
 - [List of company Assets and Inventory](GRC/Clearwater/Assest_Inventory.pdf)
 - [Business/Company Overview](GRC/Clearwater/BrightingtonAcademy2025.pdf)
 - [Policy Statements and Acceptable Use](GRC/Clearwater/PolicyStatementsEthanByrd.pdf)
-- [Risk Rating Overview])GRC/Clearwater/Risk_Rating.pdf)
+- [Risk Rating Overview](GRC/Clearwater/Risk_Rating.pdf)
 
