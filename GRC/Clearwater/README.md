@@ -6,8 +6,8 @@ All documentation related to the Clearwater compliance and asset management init
 
 Key files:
 - [List of company Assets and Inventory](Assest_Inventory.pdf)
-- [Business/Company Overview](GRC/Clearwater/BrightingtonAcademy2025.pdf)
-- [Policy Statements and Acceptable Use](GRC/Clearwater/PolicyStatementsEthanByrd.pdf)
-- [Risk Rating Overview](GRC/Clearwater/Risk_Rating.pdf)
-- [Risk Response Document](GRC/Clearwater/Risk_Response.pdf)
+- [Business/Company Overview](BrightingtonAcademy2025.pdf)
+- [Policy Statements and Acceptable Use](PolicyStatementsEthanByrd.pdf)
+- [Risk Rating Overview](Risk_Rating.pdf)
+- [Risk Response Document](Risk_Response.pdf)
 
