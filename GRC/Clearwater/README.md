@@ -45,7 +45,6 @@ To perform a risk assessment and response plan for a simulated organization, app
 - **Clearwater CC|IRM** – Cloud-based information risk management platform  
 - **Microsoft Excel** – Asset data manipulation and report formatting  
 - **PDF Export Tools** – For creating deliverable documentation  
-- **Google Authenticator** – For secure 2FA login
 
 ---
 
