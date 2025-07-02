@@ -9,4 +9,5 @@ Key files:
 - [Business/Company Overview](GRC/Clearwater/BrightingtonAcademy2025.pdf)
 - [Policy Statements and Acceptable Use](GRC/Clearwater/PolicyStatementsEthanByrd.pdf)
 - [Risk Rating Overview](GRC/Clearwater/Risk_Rating.pdf)
+- [Risk Response Document](GRC/Clearwater/Risk_Response.pdf)
 
