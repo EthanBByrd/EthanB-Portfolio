@@ -5,6 +5,7 @@ The Clearwater project is a governance, risk, and compliance (GRC) initiative fo
 All documentation related to the Clearwater compliance and asset management initiative is located in the [GRC/Clearwater](GRC/Clearwater/) folder.
 
 Key files:
+- [List of company Assets and Inveentory](GRC/Clearwater/Assest_Inventory.pdf)
 - [Business/Company Overview](GRC/Clearwater/BrightingtonAcademy2025.pdf)
 - [Policy Statements and Acceptable Use](GRC/Clearwater/PolicyStatementsEthanByrd.pdf)
 
