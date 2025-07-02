@@ -78,7 +78,8 @@ This makes the Clearwater RM Project an ideal portfolio piece for roles in cyber
 
 ## Author
 Ethan Byrd 
-Contact: [coachbyrdow@gmail.com]  
+
+Contact: coachbyrdow@gmail.com
 
 
 Key files:
