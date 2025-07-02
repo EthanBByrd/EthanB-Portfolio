@@ -80,12 +80,6 @@ This makes the Clearwater RM Project an ideal portfolio piece for roles in cyber
 
 ---
 
-## Status
-
-**Completed** — All phases, assessments, and documentation submitted and verified.
-
----
-
 ## Author
 Ethan Byrd 
 
