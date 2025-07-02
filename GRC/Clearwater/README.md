@@ -1,4 +1,8 @@
 # Clearwater Risk Management Project
+## Author
+Ethan Byrd 
+
+- Contact: coachbyrdow@gmail.com
 
 ## Key files:
 - [List of company Assets and Inventory](Assest_Inventory.pdf)
@@ -79,11 +83,6 @@ This project covers all three domains of GRC:
 This makes the Clearwater RM Project an ideal portfolio piece for roles in cybersecurity governance, risk analysis, compliance auditing, and IT risk consulting.
 
 ---
-
-## Author
-Ethan Byrd 
-
-- Contact: coachbyrdow@gmail.com
 
 
 
