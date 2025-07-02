@@ -4,6 +4,6 @@ All documentation related to the Clearwater compliance and asset management init
 
 Key files:
 - [Business/Company Overview](GGRC/Clearwater/Brightington Academy 2025.pdf)
-- [Policy Statements and Acceptable Use](GRC/Clearwater/risk_appetite.docx)
+- [Policy Statements and Acceptable Use](GRC/Clearwater/PolicyStatementsEthanByrd.pdf)
 - [Asset Inventory Sheet](GRC/Clearwater/asset_inventory.xlsx)
 
