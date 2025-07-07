@@ -1,5 +1,21 @@
 # 2FA Documentation
 
+## Setup and Installation
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/yourusername/two-factor-auth.git
+   cd two-factor-auth
+
+pip install flask flask_sqlalchemy bcrypt
+
+python
+>>> from app import db
+>>> db.create_all()
+
+Within the app.py code, make sure to add the test user email.
+
+
 ## 2FA Setup and files
 
 [Project Setup and Files](https://github.com/EthanBByrd/2FactorAuthentication)
