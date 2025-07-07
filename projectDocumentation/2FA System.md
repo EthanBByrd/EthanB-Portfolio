@@ -11,7 +11,7 @@ This project is a secure web application built with Python and Flask that implem
 
 ## Purpose
 
-The purpose of this application is to demonstrate how to integrate multi-step authentication into a web application. It is designed as a learning tool or starter project for developers interested in web security, user authentication, and full-stack development with Flask.
+The purpose of this application is for me to demonstrate how to integrate multi-step authentication into a web application. I designed this as a starter project to learn more aboutweb security, user authentication, and full-stack development with Flask.
 
 ## Features
 
