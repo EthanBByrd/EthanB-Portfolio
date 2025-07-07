@@ -42,6 +42,33 @@ This application is designed with core cybersecurity principles in mind, particu
 - Proper error handling is implemented to prevent system crashes from invalid inputs or server issues.
 - The use of lightweight tools like Flask and SQLite (or other databases) allows for quick recovery and deployment in various environments.
 
+## Known Weaknesses and Future Improvements
+
+While this two-factor authentication system demonstrates core authentication and email verification concepts, there are several areas where the application could be improved for security, scalability, and maintainability.
+
+### Current Weaknesses
+
+- **Hardcoded Secrets**: The application currently stores sensitive information (e.g., email credentials, secret key) directly in the source code. This poses a serious security risk if the code is ever exposed or pushed to a public repository.
+- **No CSRF Protection**: The application lacks Cross-Site Request Forgery protection, leaving it vulnerable to malicious form submissions from external sites.
+- **No Input Validation**: User inputs (e.g., registration fields, verification codes) are not validated for format, length, or malicious characters. This could lead to unexpected behavior or security issues.
+- **No Rate Limiting**: There are no protections against brute-force attacks on login or verification forms, meaning attackers could repeatedly guess credentials or verification codes.
+- **Session Management**: Sessions do not expire after authentication, and there is no logout functionality to allow users to terminate their session manually.
+- **Email Spoofing or Abuse**: Email is sent using plain SMTP without verification of sender identity, and the email credentials are stored insecurely.
+- **No HTTPS Enforcement**: Without HTTPS, credentials and codes could be intercepted on unencrypted connections.
+- **Limited User Feedback**: The app does not differentiate between errors (e.g., expired code vs. wrong code), nor does it include user-facing session timers or feedback mechanisms.
+
+### Suggested Future Enhancements
+
+- **Use Environment Variables**: Store secret keys, email credentials, and database URIs securely using environment variables and a `.env` file (with `python-dotenv`).
+- **Implement CSRF Protection**: Add CSRF tokens using `Flask-WTF` to protect form submissions.
+- **Add Input Validation**: Use `WTForms` or backend checks to validate input fields for expected length, format, and type.
+- **Introduce Rate Limiting**: Use `Flask-Limiter` or similar tools to limit login and verification attempts.
+- **Secure Session Handling**: Add logout functionality and clear sessions after verification; configure cookies with secure flags (`Secure`, `HttpOnly`, `SameSite`).
+- **Enable HTTPS**: Enforce HTTPS in production using a reverse proxy like Nginx or use platforms like Heroku with SSL built in.
+- **Integrate Logging and Alerts**: Track failed login attempts, suspicious behavior, and system errors to help detect and respond to threats.
+- **Support for Production Deployment**: Add a proper `requirements.txt`, `.gitignore`, and deployment configuration (e.g., Gunicorn for production server).
+- **User Experience Improvements**: Add session timeout messages, resend verification code options, and password strength indicators during registration.
+
 
 
 ## Technologies Used
