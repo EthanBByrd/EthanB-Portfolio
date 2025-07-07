@@ -20,6 +20,30 @@ The purpose of this application is for me to demonstrate how to integrate multi-
 - **Email Verification**: Upon successful login, a 10-digit verification code is generated and emailed to the user. The code is valid for 10 minutes.
 - **Code Verification**: Users must enter the correct verification code on a separate page to gain access.
 
+## Cybersecurity Ideals
+
+This application is designed with core cybersecurity principles in mind, particularly the **CIA Triad**, which stands for **Confidentiality**, **Integrity**, and **Availability**. These three pillars guide the secure handling of data throughout the authentication process.
+
+### Confidentiality
+
+- User passwords are securely hashed using `bcrypt` before being stored in the database, protecting them from exposure.
+- Verification codes are sent only to the registered email address associated with each account, reducing the risk of unauthorized access.
+- The use of two-factor authentication adds an extra layer of protection, ensuring that even if login credentials are compromised, access cannot be gained without the email verification code.
+
+### Integrity
+
+- Verification codes are randomly generated and time-limited (valid for 10 minutes), reducing the risk of code reuse or tampering.
+- Inputs are validated on both client and server sides to prevent injection attacks and ensure data consistency.
+- The system only permits access after both the password and email code have been correctly validated, ensuring data and session integrity.
+
+### Availability
+
+- The application architecture is modular and can be easily extended or scaled to handle more users or additional features.
+- Proper error handling is implemented to prevent system crashes from invalid inputs or server issues.
+- The use of lightweight tools like Flask and SQLite (or other databases) allows for quick recovery and deployment in various environments.
+
+
+
 ## Technologies Used
 
 - Python
