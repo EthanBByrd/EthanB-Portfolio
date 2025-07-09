@@ -11,7 +11,7 @@ When you first open Wireshark you will be met with a list of different network i
 ## Getting Started
 After selecting Wi-FI you may get a little overwhelmed, but we will fix that soon. What you are seeing right now is every bit of traffic and communication on that Wi-Fi and if you are looking at your home wifi, apartment wifi or company wifi, there will be a LOT of traffic.
 
-### Slimming it down
+## Slimming it down
 To minimize what we are looking at. We are going to filter by our/your IP address to be a bit more controlled. To find this information open command prompt and type in :ipconfig: and look for Ipv4 Address.
 
 Once you have this, plug into the filter bar: 
@@ -19,9 +19,11 @@ Once you have this, plug into the filter bar:
 ip.addr == *insert IP*
 
 or for outgoing traffic only
+
 ip.src == 192.168.29.155
 
 and for incoming traffic only
+
 ip.dst == 192.168.29.155
 
 To thin it out even more to just see Website traffic do
