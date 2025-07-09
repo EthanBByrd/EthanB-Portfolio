@@ -28,26 +28,9 @@ You can click on any line to open a detailed view of the packet:
 2. The middle pane shows the packet details (protocol layers).
 3. The bottom pane shows the raw bytes (hex + ASCII).
 
+It's okay if you do not know what any of this means, we will get into it later.
+
 ---
-
-## Slimming it down
-To minimize what we are looking at. We are going to filter by our/your IP address to be a bit more controlled. To find this information open command prompt and type in :ipconfig: and look for Ipv4 Address.
-
-Once you have this, plug into the filter bar: 
-
-ip.addr == *insert IP*
-
-or for outgoing traffic only
-
-ip.src == 192.168.29.155
-
-and for incoming traffic only
-
-ip.dst == 192.168.29.155
-
-To thin it out even more to just see Website traffic do
-
-tcp.port == 443 && ip.addr == xxx.xxx.xx.xxx
 
 ## Take some time
 Take some time and let this run for a bit, watch it, open some random packets and see if you can make anything out of them. We will get into other filters and what to look for in each packet in later documentation.
