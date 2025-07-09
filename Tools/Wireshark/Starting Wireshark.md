@@ -29,3 +29,6 @@ ip.dst == 192.168.29.155
 To thin it out even more to just see Website traffic do
 
 tcp.port == 443 && ip.addr == xxx.xxx.xx.xxx
+
+## Take some time
+Take some time and let this run for a bit, watch it, open some random packets and see if you can make anything out of them. We will get into other filters and what to look for in each packet in later documentation.
