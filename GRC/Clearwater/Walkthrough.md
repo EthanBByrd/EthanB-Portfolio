@@ -157,16 +157,6 @@ Export and save the following three reports as PDFs. Use the naming convention: 
 
 ---
 
-## 8. Final Submission Checklist
-
-- [ ] Exactly five Risk Determination entries with scores ≥ 8
-- [ ] Exactly five Risk Response entries with Residual Risk < 8
-- [ ] Ten total notes: five RD and five RR, properly formatted
- 
-  `My assigned component group is: [Your Group Name]`
-
----
-
 This concludes the Clearwater Risk Management Project documentation.
 
 
