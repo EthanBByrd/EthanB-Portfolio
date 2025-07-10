@@ -1,6 +1,6 @@
 # Wireshark
 
-If you're working in IT, cybersecurity, networking, or simply curious about how data flows across a network, you've probably heard of Wireshark. It's one of the most powerful tools available for analyzing network traffic — and it's completely free and open source.
+If you're working in IT, cybersecurity, networking, or simply curious about how data flows across a network, you've probably heard of Wireshark. It's one of the most powerful tools available for analyzing network traffic, best part is that it's completely free and open source.
 
 ---
 
@@ -8,7 +8,7 @@ If you're working in IT, cybersecurity, networking, or simply curious about how 
 
 Wireshark is a network protocol analyzer that captures and displays data packets in real time. It allows you to inspect every detail of network communication happening on a system, giving you a full view of what’s being sent and received across a network interface.
 
-Think of it as a digital microscope — it gives visibility into the lower layers of network communication that are typically hidden behind applications and services.
+Think of it as a digital microscope, in that it gives visibility into the lower layers of network communication that are typically hidden behind applications and services.
 
 ---
 
