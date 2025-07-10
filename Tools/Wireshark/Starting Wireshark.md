@@ -4,6 +4,8 @@ This file will be used to document my knowledge, skills, and things I learn alon
 
 [Wire Shark Blog Post 008](https://github.com/EthanBByrd/ethanb-docs/blob/main/blogs/008%20Wireshark.md) 
 
+- This is one of my daily blog posts, just documenting some general knowledge of IT and Cybersecurity tech, and I wrote one on wireshark, what it is and how it is used to this day.
+
 ## What is Wireshark
 At its core, Wireshark serves as a Network protocol analzer. Letting you capture and look at data packets that are traveling across the network in real time.
 
