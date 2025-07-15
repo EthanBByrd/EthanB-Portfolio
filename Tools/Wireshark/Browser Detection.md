@@ -26,7 +26,7 @@ This guide walks you through the process of capturing network traffic over Ether
 2. Select the correct interfact (Ethernet, wifi or whatever you are saying)
 
 ## Apply a Display Filter
-   ```wireshark
+    ```wireshark
 ip.addr == xxx.xxx.x.xxx && http.request
 
 
