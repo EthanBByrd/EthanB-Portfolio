@@ -4,20 +4,23 @@ Welcome! This repository contains a collection of cybersecurity documentation, b
 
 ## Sections
 
-### Blogs
+### [Blogs](https://github.com/EthanBByrd/ethanb-docs/tree/main/blogs)
 My own personal reflections, walkthroughs, and thought pieces on cybersecurity topics and things I learn on my walk through IT.
 
 ### [GRC](https://github.com/EthanBByrd/ethanb-docs/tree/main/GRC)
 Templates, checklists, and real-world samples for compliance, risk assessment, and security awareness.
 
-### Project Documentation
+### [Project Documentation](https://github.com/EthanBByrd/ethanb-docs/tree/main/projectDocumentation)
 Technical writeups and guides from my home lab and security research.
 
-### Tools
+### [Tools](https://github.com/EthanBByrd/ethanb-docs/tree/main/Tools)
 Dcoumenmtation of tools I use and what I am learning from them.
 
-### IT Provisioning
+### [IT Provisioning](https://github.com/EthanBByrd/ethanb-docs/tree/main/IT%20Provisioning)
 Documentation I have written for my workplace that can be applied to any company.
+
+### [Certifications](https://github.com/EthanBByrd/ethanb-docs/tree/main/Certifications)
+Proof and documentation of all of my certifications.
 
 ## Contact
 Have questions or want to connect?
