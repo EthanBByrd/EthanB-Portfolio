@@ -24,7 +24,7 @@ Each iPad is assigned a **tag** in Meraki, which acts as a profile that installs
 
 Once the iPad is enrolled and configured with the user’s Apple ID and Microsoft credentials, the goal is to set it up completely so it requires minimal troubleshooting in the field.
 
-### Core Applications We Install
+### Core Applications We Setup
 
 - **Email (Outlook)** – Configured for company communication.
 - **Authenticator (Microsoft Authenticator)** – Required for MFA across systems.
