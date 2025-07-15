@@ -16,7 +16,7 @@ Technical writeups and guides from my home lab and security research.
 ### Tools
 Dcoumenmtation of tools I use and what I am learning from them.
 
-## IT Documentation
+## IT Provisioning
 
 ## Contact
 Have questions or want to connect?
