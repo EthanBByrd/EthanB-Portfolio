@@ -26,7 +26,9 @@ This guide walks you through the process of capturing network traffic over Ether
 2. Select the correct interfact (Ethernet, wifi or whatever you are saying)
 
 ## Apply a Display Filter
-ip.addr == xxx.xxx.x.xxx && http,request
+   ```wireshark
+ip.addr == xxx.xxx.x.xxx && http.request
+
 
 ## Visit a plain HTTP site
 Most modern browsers use HTTPS, which encrypts headers. TO capture a visible User-Agent
