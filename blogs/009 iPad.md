@@ -1,6 +1,6 @@
 # iPad / iOS Deployment
 
-This post is more of a personal reflection than a traditional guide. At my current job, I help support field workers—crews working on bridges, milling operations, and general roadway construction. Foremen and superintendents are issued iPads to track progress, document work, and manage their teams’ hours.
+This post is more of a personal reflection than a traditional guide. At my current job, I help support field workers: crews working on bridges, milling operations, and general roadway construction. Foremen and superintendents are issued iPads to track progress, document work, and manage their teams’ hours.
 
 ## Cisco Meraki MDM
 
