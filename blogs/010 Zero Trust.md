@@ -1,4 +1,4 @@
-# Zero Trust: Never Trust, Always Verify
+# Zero Trust
 
 If you’ve been in IT or cybersecurity long enough, you’ve likely heard the phrase “Zero Trust” more than once. But Zero Trust isn’t a buzzword — it’s a modern approach to security built for today’s threat landscape.
 
