@@ -53,12 +53,3 @@ Display filters in Wireshark allow you to inspect specific types of packets or t
 - Use `Follow > TCP Stream` to reconstruct conversations.
 
 ---
-
-## More Resources
-
-- [Wireshark Display Filter Reference](https://wiki.wireshark.org/DisplayFilters)
-- [Wireshark Cheat Sheet (PDF)](https://packetlife.net/media/library/13/Wireshark_Display_Filters.pdf)
-
----
-
-Feel free to contribute to this list as you discover more filters useful for your workflow!
