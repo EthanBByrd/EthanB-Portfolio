@@ -21,7 +21,7 @@ This guide walks you through the process of capturing network traffic over Ether
    ipconfig
 3. Find your IPv4 address
 
-## Start Caoturing
+## Start Capturing
 1. Open Wireshark
 2. Select the correct interfact (Ethernet, wifi or whatever you are saying)
 
