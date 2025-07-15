@@ -26,5 +26,5 @@ Proof and documentation of all of my certifications.
 Have questions or want to connect?
 
 - LinkedIn: [linkedin.com/in/ethanbyrd](https://linkedin.com/in/ethanbyrd)
-- GitHub: [github.com/ethanbyrd](https://github.com/ethanbyrd)
+- GitHub: [github.com/ethanbyrd](https://github.com/EthanBByrd)
 
