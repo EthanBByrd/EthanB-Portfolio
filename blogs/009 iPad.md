@@ -34,3 +34,17 @@ Once the iPad is enrolled and configured with the user’s Apple ID and Microsof
 
 The goal is to have everything ready from day one, so the user can start working with as few roadblocks as possible. Proper setup upfront minimizes downtime and support requests
 
+## Internal Documentation & Process Improvement
+
+To streamline future deployments and reduce repeated questions, I also created internal documentation outlining the entire iPad setup process. This includes:
+
+- Step-by-step setup instructions for new iPads
+- Screenshots of key stages and settings
+- A checklist of required apps and credentials
+- Troubleshooting tips for common issues
+- A brief training guide for new IT team members
+
+This documentation is kept updated as our app stack or policies evolve. It has become a go-to reference for both our IT staff and on-site supervisors needing quick help.
+
+
+
