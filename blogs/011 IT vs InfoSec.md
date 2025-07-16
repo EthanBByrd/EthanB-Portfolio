@@ -10,3 +10,12 @@ IT is the term used to refer to those work with the use of computers, systems, s
 - Providing technical support
 - Managing databases and cloud systems
 
+## Information Security (InfoSec)
+InfoSec is a specialized branch of IT focused on protecting information systems from unauthorized access, misuse, disruption, or destruction. WHen it comes to things such as a Disaster plan recovery (DPR) or any kind of data protection, the InfoSec team takes the reigns. Their main
+goal is to safeguard data confidentiality, integrity, and availability (CIA)
+
+### InfoSec Examples
+- Implementing firewalls and antivirus solutions
+- Conducting risk assessments and audits
+- Managing user permissions and authentication
+- Responding to security breaches or cyberattacks
