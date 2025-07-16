@@ -1,4 +1,4 @@
-# Ethan Byrd's Cybersecurity Docs & GRC Portfolio
+# Ethan Byrd's IT & Cybersecurity Portfolio
 
 Welcome! This repository contains a collection of cybersecurity documentation, blog posts, and governance/risk/compliance (GRC) resources, and general IT documentation.
 
