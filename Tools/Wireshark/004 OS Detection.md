@@ -1,4 +1,4 @@
-# Passive OS Fingerprinting with Wireshark
+# Identifying OS with Wireshark
 
 ## Project Goal
 Use Wireshark to capture TCP SYN packets from devices and analyze packet-level details to estimate the operating system. This technique relies on passive OS fingerprinting using values such as TTL, window size, and TCP options.
