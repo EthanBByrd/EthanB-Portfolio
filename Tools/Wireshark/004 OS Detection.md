@@ -26,7 +26,7 @@ Filter for TCP SYN packets (used to initiate new connections):
 
 ```wireshark
 tcp.flags.syn == 1 and tcp.flags.ack == 0
-
+```
 ### Step 3: Select and Inspect a Packet
 Click on a packet in the filtered list and expand the following protocol layers:
 
