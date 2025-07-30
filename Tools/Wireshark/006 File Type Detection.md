@@ -71,7 +71,10 @@ To reconstruct the transfer:
 ```wireshark
 HTTP 200 OK packet.
 ```
-3. Click Follow -> TCP Stream
-4. This open the full exchange between client and server.
-5. If the file is in plain text (e.g., TXT or CSV), you may see part or all of the content.
-6. For binary files, the raw data will appear garbled, but you can Save As Raw for analysis.
+3. Click
+```wireshark
+Follow -> TCP Stream
+```
+5. This open the full exchange between client and server.
+6. If the file is in plain text (e.g., TXT or CSV), you may see part or all of the content.
+7. For binary files, the raw data will appear garbled, but you can Save As Raw for analysis.
