@@ -1,2 +1,2 @@
 # Link to Download
-# [Autopsy Download]: (https://www.autopsy.com/download/) 
+# [Autopsy Download](https://www.autopsy.com/download/) 
