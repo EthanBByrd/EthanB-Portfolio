@@ -22,4 +22,4 @@ This section includes:
 ---
 
 ## Citation
-All works in this section are original and are cited appropriately if referenced.
+All works in this section are original and are to be cited appropriately if referenced.
