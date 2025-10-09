@@ -22,6 +22,9 @@ Documentation I have written for my workplace that can be applied to any company
 ### [Certifications](https://github.com/EthanBByrd/ethanb-docs/tree/main/Certifications)
 Proof and documentation of all of my certifications.
 
+### [Research and Publications](https://github.com/EthanBByrd/EthanB-Portfolio/tree/main/Research%20and%20Publications)
+Highlights my academic and scholarly work
+
 ## Contact
 Have questions or want to connect?
 
