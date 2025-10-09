@@ -28,6 +28,6 @@ Highlights my academic and scholarly work
 ## Contact
 Have questions or want to connect?
 
-- LinkedIn: [linkedin.com/in/ethanbyrd](www.linkedin.com/in/ethan-byrd-ksu)
+- LinkedIn: [linkedin.com/in/ethanbyrd](https://www.linkedin.com/in/ethan-byrd-ksu/)
 - GitHub: [github.com/EthanBByrd](https://github.com/EthanBByrd)
 
