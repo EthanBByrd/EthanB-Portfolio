@@ -3,10 +3,10 @@
 Ethan Byrd  
 
 ## Key files:
-- [Governance Program Design Report](002 Diamond Hands Holding Governance Design.pdf)
+- [Governance Program Design Report](001 DHH Consultation.pdf)
 - [Security Services Directory & Implementation Plan](003 DHH Security Service Plan.pdf)
 - [NIST-Based Security Strategy Analysis](Homework#1_CYBR_7930_ebyrd13.pdf)
-
+- [Risk Response Document](Risk_Response.pdf)
 ---
 
 ## Overview
