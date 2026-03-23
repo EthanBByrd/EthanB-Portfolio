@@ -4,9 +4,9 @@ Ethan Byrd
 
 ## Key files:
 - [Starting Consultation](001_DHH_Consultation.pdf)
-- [Security Services Directory & Implementation Plan](003 DHH Security Service Plan.pdf)
-- [NIST-Based Security Strategy Analysis](Homework#1_CYBR_7930_ebyrd13.pdf)
-- [Risk Response Document](Risk_Response.pdf)
+- [Security Services Governance Design and Plan](002_DHH_Governance_Design.pdf)
+- [NIST-Based Security Strategy Analysis](001_DHH_Consultation.pdf)
+- [Risk Response Document](007_DHH.pdf)
 ---
 
 ## Overview
