@@ -8,7 +8,7 @@ Welcome! This repository contains a collection of cybersecurity documentation, b
 My own personal reflections, walkthroughs, and thought pieces on cybersecurity topics and things I learn on my walk through IT.
 
 ### [GRC](https://github.com/EthanBByrd/ethanb-docs/tree/main/GRC)
-Templates, checklists, and real-world samples for compliance, risk assessment, and security awareness.
+Real-world simulated samples for compliance, risk assessment, and security awareness.
 
 ### [Project Documentation](https://github.com/EthanBByrd/ethanb-docs/tree/main/projectDocumentation)
 Technical writeups and guides from my home lab and security research.
