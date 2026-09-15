@@ -334,4 +334,8 @@ Typically:
 Typically:
 
 - Longer duration
-- 
+- Objective Based
+- Simulates real-world attackers
+- Tests detection and response capabilities
+
+<br>
