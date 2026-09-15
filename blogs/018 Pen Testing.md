@@ -340,7 +340,7 @@ Typically:
 
 <br>
 
-## Final THoughts
+## Final Thoughts
 
 <br>
 
