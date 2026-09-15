@@ -339,3 +339,9 @@ Typically:
 - Tests detection and response capabilities
 
 <br>
+
+## Final THoughts
+
+<br>
+
+Penetration testing is one of the most important and effectives ways for an IT/IS team to understand their organization's actual security posture and risk appetite.
